@@ -28,7 +28,7 @@ a {
 }
 .main-text {
     font-size: 18px;
-    color: #E5E7EB;
+    color: #e5e7eb;
 }
 .page-presentation {
     display: flex;
@@ -37,6 +37,15 @@ a {
 .image-container {
     margin-left: auto;
     margin-top: 20px;
+}
+.sign-up {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border: #3882f6;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 5px 30px 5px 30px;
 }
 body {
     margin: 0;
