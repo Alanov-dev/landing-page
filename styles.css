@@ -129,7 +129,15 @@ a {
     height: 30px;
     width: 100px;
 }
-
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 40px;
+    font-size: large;
+}
 body {
     margin: 0;
 }
