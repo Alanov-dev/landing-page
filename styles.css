@@ -95,6 +95,41 @@ a {
     font-weight: bold;
     font-style: normal;
 }
+.call-to-action-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 100px;
+}
+.call-to-action {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    background-color: #3882f6;
+    color: #E5E7EB;
+    padding: 25px 200px 25px 200px;
+    border-radius: 10px;
+}
+.call-text {
+
+}
+.call1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.button-div {
+    margin-left: auto;
+}
+.sign-up2 {
+    background-color: #3882f6;
+    border: 2px solid #E5E7EB;
+    border-radius: 5px;
+    color: #E5E7EB;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+}
+
 body {
     margin: 0;
 }
