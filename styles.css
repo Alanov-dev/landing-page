@@ -74,6 +74,27 @@ a {
     border: 5px solid #3882f6;
     border-radius: 5px;
 }
+.quote-container {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+.quote-div {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    max-width: 800px;
+}
+.source {
+    display: flex;
+    justify-content: end;
+    margin-top: 15px;    
+    font-size: 28px;
+    font-weight: bold;
+    font-style: normal;
+}
 body {
     margin: 0;
 }
