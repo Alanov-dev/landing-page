@@ -1,0 +1,29 @@
+.header-container {
+    background-color: #1F2937;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.image {
+    max-width: 300px;
+    max-height: 300px;
+}
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+.main-title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+.main-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
