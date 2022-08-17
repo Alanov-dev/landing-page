@@ -10,22 +10,30 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .header-logo-text {
     font-size: 24px;
     color: #F9FAF8;
 }
 .hero-main {
-    
+    display: flex;
+    margin-top: 70px;
+    justify-content: space-between;
+}
+.hero-text-button {
+    width: 400px;
 }
 .hero-main-text {
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
+    margin: 0px;
 }
 .hero-secondary-text, .header-link-text {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 0px;
 }
 .header-link-text {
     list-style: none;
@@ -33,5 +41,5 @@ body {
     gap: 5px;
 }
 .hero-image {
-    width: 500px;
+    width: 450px;
 }
