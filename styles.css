@@ -18,7 +18,7 @@ body {
 }
 .hero-main {
     display: flex;
-    margin-top: 70px;
+    margin-top: 90px;
     justify-content: space-between;
 }
 .hero-text-button {
