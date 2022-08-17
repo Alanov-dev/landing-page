@@ -1,8 +1,8 @@
 body {
-    background-color: #1f2937;
+    margin: 0px;
 }
 .hero, .footer {
-    background-color: #1f2937;
+    background-color: #1F2937;
 }
 .hero {
     padding: 0px 200px;
@@ -52,4 +52,15 @@ body {
     border-radius: 8px;
     padding: 8px 35px;
     border: none;
+}
+.information {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.information-header-text {
+    color: #1F2937;
+    font-weight: bolder;
+    font-size: 36px;
 }
