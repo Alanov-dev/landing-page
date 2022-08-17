@@ -64,3 +64,16 @@ body {
     font-weight: bolder;
     font-size: 36px;
 }
+.container-information-image {
+    display: flex;
+    width: 1000px;
+}
+.information-image {
+    border: solid 5px #3882f6;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+}
+.container-img-text {
+    width: 150px;
+}
