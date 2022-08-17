@@ -43,3 +43,13 @@ body {
 .hero-image {
     width: 450px;
 }
+.sign-up {
+    margin-top: 10px;
+    background-color: #3882f6;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 8px;
+    padding: 8px 35px;
+    border: none;
+}
