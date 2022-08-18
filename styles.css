@@ -141,3 +141,12 @@ body {
     width: 130px;
     height: 40px;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+}
+.footer-text {
+    font-size: 20px;
+    color: #F9FAF8;
+}
