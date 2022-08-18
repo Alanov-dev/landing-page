@@ -6,6 +6,7 @@ body {
 }
 .hero {
     padding: 0px 200px;
+    height: 520px;
 }
 .header {
     display: flex;
