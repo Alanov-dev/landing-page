@@ -121,6 +121,16 @@ body {
     height: 150px;
     width: 1000px;
 }
+.call-header, .call-text {
+    color: #F9FAF8;
+}
+.call-header {
+    margin-bottom: 0px;
+}
+.call-text {
+    font-size: 17px;
+    margin-top: 0px;
+}
 .call-signup {
     background-color: #3882f6;
     color: #F9FAF8;
