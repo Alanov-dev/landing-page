@@ -106,3 +106,21 @@ body {
     font-weight: bold;
     margin-top: 0px;
 }
+.call {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0px;
+}
+.banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 10px;
+    height: 150px;
+    width: 1000px;
+}
+.call-signup {
+    height: 30px;
+}
